@@ -27,12 +27,12 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "ACM Semicode ",
+    "subtitle": "Is back",
+    "description": "The Biggest coding competition of the year.Hosted in collaboration with MPSTME, DBIT, MHSSCOE, ACM Fr CrCE, SNDT; SemiCode consists of _three rounds_ that will allow you to demonstrate all your amazing coding skills and\nalso give you the opportunity to win a cash price of upto 17000rs.",
+    "img": "/assets/images/graphic42.jpg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Register now",
       "href": "#"
     },
     "secondaryAction": {
@@ -41,11 +41,11 @@
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "About the competition",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Three rounds",
+        "description": "Round 1 will be held online on 19th March. ",
         "img": "/assets/images/product1.jpg"
       },
       {
@@ -72,7 +72,7 @@
       },
       {
         "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "description": "Next.js is a framework for server-rendered Reasdct applications using Next.js.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
