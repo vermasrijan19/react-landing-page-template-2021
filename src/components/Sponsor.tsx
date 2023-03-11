@@ -36,7 +36,9 @@ const Sponsor = () => {
             >
               {firstItem?.title}
             </h3>
-            <p className={`text-gray-600`}>{firstItem?.description}</p>
+            <p className={`text-gray-600 text-justify`}>
+              {firstItem?.description}
+            </p>
           </div>
           <div className={`w-full sm:w-1/2 p-6`}>
             <img
