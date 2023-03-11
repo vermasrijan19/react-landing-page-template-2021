@@ -23,7 +23,9 @@ const Product = () => {
           ))}
         </h1>
         <Divider />
-        <div className={`md:hover:animate-pulse flex flex-wrap`}>
+        <div
+          className={`transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 flex flex-wrap`}
+        >
           <div className={`w-5/6 sm:w-1/2 p-6 mt-20`}>
             <h3
               className={`text-3xl text-gray-800 font-bold leading-none mb-3`}
@@ -43,7 +45,7 @@ const Product = () => {
           </div>
         </div>
         <div
-          className={`md:hover:animate-pulse flex flex-wrap flex-col-reverse sm:flex-row`}
+          className={`transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 flex flex-wrap flex-col-reverse sm:flex-row`}
         >
           <div className={` w-full sm:w-1/2 p-6`}>
             <img
@@ -65,7 +67,9 @@ const Product = () => {
             </div>
           </div>
         </div>
-        <div className={`md:hover:animate-pulse flex flex-wrap`}>
+        <div
+          className={`transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 flex flex-wrap`}
+        >
           <div className={` w-5/6 sm:w-1/2 p-6 mt-20`}>
             <h3
               className={`text-3xl text-gray-800 font-bold leading-none mb-3`}

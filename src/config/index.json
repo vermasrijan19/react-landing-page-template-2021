@@ -18,7 +18,7 @@
       "href": "pricing"
     },
     {
-      "name": "Sponsor",
+      "name": "Sponsors",
       "href": "sponsor"
     },
     {
@@ -126,12 +126,32 @@
     ]
   },
   "sponsor": {
-    "title": "Sponsor",
+    "title": "Sponsors",
     "items": [
       {
         "title": "Digital Ocean",
         "description": "DigitalOcean simplifies cloud computing so developers and businesses can spend more time building software that changes the world. With its mission-critical infrastructure and fully managed offerings, DigitalOcean helps developers, startups and small and medium-sized businesses (SMBs) rapidly build, deploy and scale applications to accelerate innovation and increase productivity and agility.",
         "img": "/assets/images/digoc.png"
+      },
+      {
+        "title": "Geeks for Geeks ",
+        "description": "The Geeks for Geeks app has been created to cater to the needs of geeks who are looking to expand their knowledge, share their expertise, and pursue their dream job. With millions of articles, online courses, tutorials, and other resources available both live and online, this app is the perfect destination for geeks who are passionate about learning and growing in their field.",
+        "img": "/assets/images/gfg.png"
+      },
+      {
+        "title": "AlgoZenith",
+        "description": "AlgoZenith is a platform that empowers students to learn Algorithmic Problem Solving and Developmental Skills to give their career a headstart. This Organization is trying to revolutionize how competitive programming is learnt at school and college levels in India and beyond.",
+        "img": "/assets/images/algozen.png"
+      },
+      {
+        "title": "BeReal",
+        "description": "BeReal is the simplest photo sharing app to share once a day your real life in photo with friends. Every day at a different time, everyone captures a photo within 2 minutes. Capture and post in time to discover what your Friends are up to",
+        "img": "/assets/images/bereal.png"
+      },
+      {
+        "title": "Unstop",
+        "description": "Unstop, derived from the belief in #BeUnstoppable, is an Early Talent Engagement & Hiring Platform with a growing community of ~4.5 Mn Students, Freshers, and 0-5 years Working Professionals. With a penetration of ~98% across all major campuses, it is a new category creator called Edu-HR-Tech.",
+        "img": "/assets/images/unstop.png"
       }
     ]
   },
