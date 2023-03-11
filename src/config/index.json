@@ -1,24 +1,28 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "ACM SEMICODE '23 ",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Competition",
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Languages",
       "href": "features"
     },
 
     {
-      "name": "Pricing",
+      "name": "Prizes",
       "href": "pricing"
     },
     {
-      "name": "About",
+      "name": "Sponsor",
+      "href": "sponsor"
+    },
+    {
+      "name": "About Us",
       "href": "about"
     }
   ],
@@ -29,125 +33,114 @@
   "mainHero": {
     "title": "ACM Semicode ",
     "subtitle": "Is back",
-    "description": "The Biggest coding competition of the year.Hosted in collaboration with MPSTME, DBIT, MHSSCOE, ACM Fr CrCE, SNDT; SemiCode consists of _three rounds_ that will allow you to demonstrate all your amazing coding skills and\nalso give you the opportunity to win a cash price of upto 17000rs.",
-    "img": "/assets/images/graphic42.jpg",
+    "description": "SemiCode is a tag team coding contest that takes place in Mumbai and is organized by NMIMS Mumbai's technical body, ACM MPSTME in association with other colleges such as SNDT, MHSSCE, and FRCRCE. This competition brings together some of the brightest minds in the field of competitive coding from across Mumbai. The competition is designed to test the participants' problem-solving skills, time management, and ability to coordinate as a team.",
+    "img": "/assets/images/hero.png",
     "primaryAction": {
       "text": "Register now",
-      "href": "#"
+      "href": "https://unstop.com/hackathons/semicode23-mukesh-patel-school-of-technology-management-and-engineering-mpstme-mumbai-617663"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:ashish.make095@nmims.edu.in"
     }
   },
   "product": {
     "title": "About the competition",
     "items": [
       {
-        "title": "Three rounds",
-        "description": "Round 1 will be held online on 19th March. ",
-        "img": "/assets/images/product1.jpg"
+        "title": "Round 1",
+        "description": "This will be an online round, where participants would have to crack a set of questions assigned to your team within a duration of 2 hours on the day of the competition. Starts on 19th March '23!",
+        "img": "/assets/images/studybois.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "Round 2",
+        "description": "Round 2 will commence offline, with intermediate level of questions. Show your team's individual coding excellence and prove your mettle! Offline from 10 AM, 25 March 2023 at MPSTME, Mumbai.",
+        "img": "/assets/images/mobilething.jpg"
+      },
+      {
+        "title": "Round 3",
+        "description": "Beat round 2? Buck up  and compete against the best coding tag-teams of Mumbai, and claim your spot on the leaderboard! Offline from 2 PM, 25 March 2023 at MPSTME, Mumbai.",
+        "img": "/assets/images/win.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Meet your Weapons!",
+    "subtitle": "All the best languages out there!",
+    "description": "Prefer the Vector Optimizations in C++ or perhaps Python's simplicity? Offering the best languages that you can code in for competitive programming, levelling the playing field for all!",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "C",
+        "description": "C is a high-performance language for system programming, embedded systems, and OS development.",
+        "icon": "/assets/images/c.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "name": "C++",
+        "description": "C++ is an object oriented language for system programming, embedded systems, and high-performance apps.",
+        "icon": "/assets/images/cpp.png"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered Reasdct applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
+        "name": "Python",
+        "description": "Python is a versatile, high-level language for web dev, data analysis, AI, etc., known for its simplicity and readability.",
+        "icon": "/assets/images/saap.png"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Java",
+        "description": "Java is an object-oriented language with platform independence, used for developing apps from mobile to enterprise systems.",
+        "icon": "/assets/images/java.png"
+      },
+      {
+        "name": "JavaScript",
+        "description": "JavaScript is a high-level language for client-side web development, interactive interfaces, and server-side apps with Node.js.",
+        "icon": "/assets/images/sastajava.png"
+      },
+      {
+        "name": "Rust",
+        "description": "Rust is a modern, systems programming language designed to provide fast, reliable, and safe performance, with a focus on memory safety and concurrency.",
+        "icon": "/assets/images/rust.png"
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Prizes",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
-        "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
-        ]
+        "name": "1st Runner Up",
+        "price": "₹ 25,000",
+        "priceDetails": "per Team",
+        "features": []
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
+        "name": "Winner",
+        "price": "₹ 55,000",
+        "priceDetails": "per Team",
 
-        "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
-        ]
+        "features": []
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
-        "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
-        ]
+        "name": "2nd Runner Up",
+        "price": "₹ 15,000",
+        "priceDetails": "per Team",
+        "features": []
+      }
+    ]
+  },
+  "sponsor": {
+    "title": "Sponsor",
+    "items": [
+      {
+        "title": "Digital Ocean",
+        "description": "DigitalOcean simplifies cloud computing so developers and businesses can spend more time building software that changes the world. With its mission-critical infrastructure and fully managed offerings, DigitalOcean helps developers, startups and small and medium-sized businesses (SMBs) rapidly build, deploy and scale applications to accelerate innovation and increase productivity and agility.",
+        "img": "/assets/images/digoc.png"
       }
     ]
   },
   "about": {
-    "sections": [
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      }
-    ],
+    "sections": [],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "https://github.com/acm-mpstme-tech",
+      "twitter": "https://twitter.com/acm_mpstme/",
+      "linkedin": "https://www.linkedin.com/company/acm-nmims-mpstme/"
     }
   }
 }
