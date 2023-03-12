@@ -6,13 +6,13 @@ import Divider from './Divider';
 const Sponsor = () => {
   const { sponsor } = config;
   const [firstItem, secondItem, thirdItem, fItem, fiItem] = sponsor.items;
-  const settings = {
-    dots: true,
-    infinite: true,
-    speed: 500,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-  };
+  // const settings = {
+  //   dots: true,
+  //   infinite: true,
+  //   speed: 500,
+  //   slidesToShow: 1,
+  //   slidesToScroll: 1,
+  // };
   return (
     <section className={`bg-background py-8`} id="sponsor">
       <div className={`container max-w-5xl mx-auto m-8`}>
