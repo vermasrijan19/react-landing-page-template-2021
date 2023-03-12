@@ -11,7 +11,7 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.2
         with:
-          local-dir: out/
+          local-dir: ./out/
           server-dir: /public_html/
           server: ftp.mpstme.hosting.acm.org
           username: mpstmehostingacm
